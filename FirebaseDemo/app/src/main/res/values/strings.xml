@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="email">email</string>
+    <string name="powered_by_njan_thanne">Powered by njan thanne</string>
+
+    <string name="todo">TODO</string>
+    <string name="ivade_onnum_illa">IVADE ONNUM ILLA</string>
+    <string name="logout">LOGOUT</string>
+    <string name="string_logout" />
+
+
+</resources>
