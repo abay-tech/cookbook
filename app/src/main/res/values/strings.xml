@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="email">email</string>
+    <string name="powered_by_njan_thanne">Powered by njan thanne</string>
+
+
+    <string name="ivade_onnum_illa">IVADE ONNUM ILLA</string>
+    <string name="logout">LOGOUT</string>
+    <string name="string_logout" />
+    <string name="choco">choco</string>
+    <string name="the_ultimate">The Ultimate</string>
+    <string name="todo">TODO</string>
+    <string name="enter_nickname">Enter Nickname</string>
+    <string name="search">Search</string>
+    <string name="hahahahah">hahahahah</string>
+    <string name="cookies">Cookies</string>
+    <string name="steps">Steps</string>
+    <string name="ingredients">Ingredients</string>
+
+    <string name="password">PASSWORD</string>
+    <string name="emailu">EMAIL</string>
+
+    <string name="sign_in">SIGN IN</string>
+    <string name="need_help">NEED HELP?</string>
+    <string name="cookiesu">COOKIES</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+
+    <string name="passwordu">Password</string>
+    <string name="emailuu">Email</string>
+
+
+</resources>
